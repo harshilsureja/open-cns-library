@@ -1,2 +1,2 @@
-# open-cns-library
-Open Source CNS Library in Python
+# open_cns_library
+Open Source CNS Library in multi language
